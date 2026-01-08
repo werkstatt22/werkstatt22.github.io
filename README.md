@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RDKS Service | Sensoren Auslesen & Programmieren</title>
+    <title>RDKS Service | Sensoren Auslesen & Programmieren fehler auslessen und löschen mit Diagnosegeräht </title>
     <style>
         :root {
             --primary: #2c3e50;
@@ -20,7 +20,7 @@
         }
 
         header {
-            background: var(--primary);
+            background: white(--primary);
             color: white;
             padding: 2rem 0;
             text-align: center;
